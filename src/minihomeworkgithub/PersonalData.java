@@ -9,5 +9,19 @@ package minihomeworkgithub;
  * @author peuvi
  */
 public class PersonalData {
+    String Name;
+    String Nacionality;
+    int Birthday;
+    int CreditCard;
+
+    public PersonalData(String Name, String Nacionality, int Birthday, int CreditCard) {
+        this.Name = Name;
+        this.Nacionality = Nacionality;
+        this.Birthday = Birthday;
+        this.CreditCard = CreditCard;
+    }
+    
+    
+    
     
 }
