@@ -18,6 +18,8 @@ public class MiniHomeworkGitHub {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         
+        System.out.println("Please enter the details of the car you want to rent:");
+        
         System.out.println("Enter car model");
         String Model = sc.nextLine();
         
