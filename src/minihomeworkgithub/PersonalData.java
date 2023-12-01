@@ -11,6 +11,7 @@ package minihomeworkgithub;
 public class PersonalData {
     String Name;
     String Nacionality;
+    String birthday;
     int Birthday;
     int CreditCard;
 
